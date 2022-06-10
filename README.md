@@ -1,7 +1,6 @@
 ### Olá! Eu sou Oscar!👋
 
 - 🔭 QA!!!
-- 🌱 Estudando typescript ...
 - 💬 Meu email: oscarbrum09@gmail.com ...
 
  <div>
