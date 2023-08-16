@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/368493/angular.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg](https://www.svgrepo.com/show/369381/laravel.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/369381/laravel.svg">
 </div>
   
  ##
