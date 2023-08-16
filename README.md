@@ -15,9 +15,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/368493/angular.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/369381/laravel.svg">
+  <img align="center" alt="Rafa-angular" height="30" width="40" src="https://www.svgrepo.com/show/368493/angular.svg">
+  <img align="center" alt="oscar-php" height="30" width="40" src="https://www.svgrepo.com/show/452088/php.svg">
 </div>
   
  ##
